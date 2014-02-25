@@ -1,0 +1,16 @@
+.starter-template {
+  padding-top: 40px;
+  text-align: left;
+}
+.responsive-image {
+  height:auto;
+  width:100%;
+}
+.no-padding {
+  padding:0px 0px;
+}
+
+.imageDiv {
+  border:2px solid black;
+  margin-bottom: 10px;
+}
